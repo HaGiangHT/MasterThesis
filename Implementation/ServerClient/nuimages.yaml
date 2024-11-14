@@ -1,0 +1,12 @@
+path: '/home/giang/ServerClient/Server_Client_NoneF/traindata'
+train: 'images/train'
+val: 'images/val'
+
+# class names
+names:
+  0: 'person'
+  1: 'bicycle'
+  2: 'car'
+  3: 'motorcycle'
+  4: 'bus'
+  5: 'truck'

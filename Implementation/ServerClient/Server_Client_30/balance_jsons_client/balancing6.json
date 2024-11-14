@@ -1,0 +1,10 @@
+{
+    "person": 0.15,
+    "bicycle": 0.125,
+    "car": 0.125,
+    "motorcycle": 0.225,
+    "airplane": 0,
+    "bus": 0.2,
+    "train": 0,
+    "truck": 0.175
+}
